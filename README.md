@@ -13,7 +13,7 @@ The "Actual Infected Population and Forecast" line chart illustrates the actual 
 ## Percentage Population Infected by Country (Map)
 The "Percentage Population Infected by Country" map represents the percentage of the population infected by COVID-19 in each country. This visual depiction provides insights into the spread and impact of the virus at a country level.
 
-![Dashboard](Dashboard 1.png)
+![Dashboard](Dashboard.png)
 
 ## Insights
 The death percentage rate table reveals the variation in fatality rates across different regions and countries, highlighting areas with higher mortality rates.
